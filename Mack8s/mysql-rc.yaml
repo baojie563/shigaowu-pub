@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ReplicationController
 metadata:
   name: mysql
+  namespace: testgroup
 spec:
   replicas: 1
   selector:

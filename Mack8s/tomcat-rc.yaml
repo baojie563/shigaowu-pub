@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ReplicationController
 metadata:
   name: tomcat
+  namespace: testgroup
 spec:
   replicas: 2
   selector:

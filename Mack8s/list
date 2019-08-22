@@ -1,0 +1,10 @@
+k8s.gcr.io/kube-proxy-amd64                v1.10.3             4261d315109d        15 months ago       97.1MB
+k8s.gcr.io/kube-scheduler-amd64            v1.10.3             353b8f1d102e        15 months ago       50.4MB
+k8s.gcr.io/kube-controller-manager-amd64   v1.10.3             40c8d10b2d11        15 months ago       148MB
+k8s.gcr.io/kube-apiserver-amd64            v1.10.3             e03746fe22c3        15 months ago       225MB
+k8s.gcr.io/etcd-amd64                      3.1.12              52920ad46f5b        17 months ago       193MB
+k8s.gcr.io/kubernetes-dashboard-amd64      v1.8.3              0c60bcf89900        18 months ago       102MB
+k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64     1.14.8              c2ce1ffb51ed        19 months ago       41MB
+k8s.gcr.io/k8s-dns-sidecar-amd64           1.14.8              6f7f2dc7fab5        19 months ago       42.2MB
+k8s.gcr.io/k8s-dns-kube-dns-amd64          1.14.8              80cc5ea4b547        19 months ago       50.5MB
+k8s.gcr.io/pause-amd64
